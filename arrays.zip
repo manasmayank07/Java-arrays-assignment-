@@ -1,10 +1,4 @@
 arrays.zip/
-├── DiscreteDistribution.java   // Part 1: Weighted probability index selection using arrays
-├── ThueMorse.java              // Part 2: Binary pattern generation (Thue–Morse sequence) using arrays
-├── Birthday.java               // Part 3: Birthday paradox simulation using boolean arrays
-├── Minesweeper.java            // Part 4: 2D Minesweeper board creation using arrays
-
-arrays.zip/
 ├── DiscreteDistribution.java
 ├── ThueMorse.java
 ├── Birthday.java
